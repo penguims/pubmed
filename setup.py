@@ -8,8 +8,6 @@
 
 from setuptools import setup, find_packages
 
-pkgs = find_packages()
-print(pkgs)
 
 setup(
     name = 'pubmed',
