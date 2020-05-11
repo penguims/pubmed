@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pub
+med_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+      <PMID Version="1">18862</PMID>
+      <DateCompleted>
+        <Year>2008</Year>
+        <Month>09</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>07</Month>
+        <Day>25</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0278-4297</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>27</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2008</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of ultrasound in medicine : official journal of the American Institute of Ultrasound in Medicine</Title>
+          <ISOAbbreviation>J Ultrasound Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Thrombosis of an ectatic <sub>torcular</sub> herophili: anatomic localization using fetal neurosonography.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>989-91</MedlinePgn>
+        </Pagination>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Schwartz</LastName>
+            <ForeName>Nadav</ForeName>
+            <Initials>N</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Monteagudo</LastName>
+            <ForeName>Ana</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bornstein</LastName>
+            <ForeName>Eran</ForeName>
+            <Initials>E</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Timor-Tritsch</LastName>
+            <ForeName>Ilan E</ForeName>
+            <Initials>IE</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zagzag</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kudla</LastName>
+            <ForeName>Marek</ForeName>
+            <Initials>M</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D002363">Case Reports</PublicationType>
+          <PublicationType UI="D016422">Letter</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Ultrasound Med</MedlineTA>
+        <NlmUniqueID>8211547</NlmUniqueID>
+        <ISSNLinking>0278-4297</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Am J Public Health. 2019 Jul;109(7):985-986</RefSource>
+          <PMID Version="1">31166733</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D001927">Brain Diseases</DescriptorName>
+          <QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+          <QualifierName MajorTopicYN="N" UI="Q000196">embryology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D002585">Cesarean Section</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D017809">Fatal Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D005315">Fetal Diseases</DescriptorName>
+          <QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y" UI="D016216">Ultrasonography, Prenatal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D020246">Venous Thrombosis</DescriptorName>
+          <QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+          <QualifierName MajorTopicYN="N" UI="Q000196">embryology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2008</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2008</Year>
+          <Month>10</Month>
+          <Day>1</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2008</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">18499862</ArticleId>
+        <ArticleId IdType="pii">27/6/989</ArticleId>
+        <ArticleId IdType="doi">10.7863/jum.2008.27.6.989</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+      <PMID Version="1">23416520</PMID>
+      <DateCompleted>
+        <Year>2013</Year>
+        <Month>05</Month>
+        <Day>21</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>11</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1546-1718</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>45</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2013</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature genetics</Title>
+          <ISOAbbreviation>Nat. Genet.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Sequencing ancient calcified dental plaque shows changes in oral microbiota with dietary shifts of the Neolithic and Industrial revolutions.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>450-5, 455e1</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/ng.2536</ELocationID>
+        <Abstract>
+          <AbstractText>The importance of commensal microbes for human health is increasingly recognized, yet the impacts of evolutionary changes in human diet and culture on commensal microbiota remain almost unknown. Two of the greatest dietary shifts in human evolution involved the adoption of carbohydrate-rich Neolithic (farming) diets (beginning ∼10,000 years before the present) and the more recent advent of industrially processed flour and sugar (in ∼1850). Here, we show that calcified dental plaque (dental calculus) on ancient teeth preserves a detailed genetic record throughout this period. Data from 34 early European skeletons indicate that the transition from hunter-gatherer to farming shifted the oral microbial community to a disease-associated configuration. The composition of oral microbiota remained unexpectedly constant between Neolithic and medieval times, after which (the now ubiquitous) cariogenic bacteria became dominant, apparently during the Industrial Revolution. Modern oral microbiotic ecosystems are markedly less diverse than historic populations, which might be contributing to chronic oral (and other) disease in postindustrial lifestyles.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Adler</LastName>
+            <ForeName>Christina J</ForeName>
+            <Initials>CJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Australian Centre for Ancient DNA, School of Earth and Environmental Sciences, The University of Adelaide, Adelaide, South Australia, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dobney</LastName>
+            <ForeName>Keith</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Weyrich</LastName>
+            <ForeName>Laura S</ForeName>
+            <Initials>LS</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kaidonis</LastName>
+            <ForeName>John</ForeName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Walker</LastName>
+            <ForeName>Alan W</ForeName>
+            <Initials>AW</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Haak</LastName>
+            <ForeName>Wolfgang</ForeName>
+            <Initials>W</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bradshaw</LastName>
+            <ForeName>Corey J A</ForeName>
+            <Initials>CJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Townsend</LastName>
+            <ForeName>Grant</ForeName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sołtysiak</LastName>
+            <ForeName>Arkadiusz</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alt</LastName>
+            <ForeName>Kurt W</ForeName>
+            <Initials>KW</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Parkhill</LastName>
+            <ForeName>Julian</ForeName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cooper</LastName>
+            <ForeName>Alan</ForeName>
+            <Initials>A</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>076964</GrantID>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>WT092799/Z/10/Z</GrantID>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>WT098051</GrantID>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2013</Year>
+          <Month>02</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Nat Genet</MedlineTA>
+        <NlmUniqueID>9216904</NlmUniqueID>
+        <ISSNLinking>1061-4036</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Nature. 2019 Aug;572(7771):571-572</RefSource>
+          <PMID Version="1">31455916</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y" UI="D001106">Archaeology</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D005075">Biological Evolution</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D003773">Dental Plaque</DescriptorName>
+          <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+          <QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y" UI="D004032">Diet</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D059014">High-Throughput Nucleotide Sequencing</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y" UI="D007221">Industry</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D054892">Metagenome</DescriptorName>
+          <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D009061">Mouth Mucosa</DescriptorName>
+          <QualifierName MajorTopicYN="Y" UI="Q000382">microbiology</QualifierName>
+          <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="NLM">EMS57665</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2012</Year>
+          <Month>05</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2012</Year>
+          <Month>12</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2013</Year>
+          <Month>2</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2013</Year>
+          <Month>2</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2013</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">23416520</ArticleId>
+        <ArticleId IdType="pii">ng.2536</ArticleId>
+        <ArticleId IdType="doi">10.1038/ng.2536</ArticleId>
+        <ArticleId IdType="pmc">PMC3996550</ArticleId>
+        <ArticleId IdType="mid">EMS57665</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Nat Methods. 2009 Sep;6(9):639-41</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19668203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oral Microbiol Immunol. 1996 Dec;11(6):387-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9467371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Appl Environ Microbiol. 2010 Oct;76(20):6751-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20729324</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Periodontol 2000. 2002;28:12-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12013340</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dent Clin North Am. 2010 Jul;54(3):441-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20630188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Bacteriol. 2010 Oct;192(19):5002-17</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20656903</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Appl Environ Microbiol. 2003 Jun;69(6):3223-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12788719</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Methods. 2010 Sep;7(9):668-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20805793</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Clin Nutr. 2005 Feb;81(2):341-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15699220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Infect Immun. 2010 Apr;78(4):1509-19</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20145094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Finn Dent Soc. 1991;87(4):515-25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1775479</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Periodontol. 2001 Jun;72(6):779-87</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11453241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Bacteriol. 1991 Jan;173(2):697-703</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1987160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS Biol. 2010;8(11):e1000536</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21085689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bull World Health Organ. 2005 Sep;83(9):661-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16211157</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Appl Environ Microbiol. 2001 Apr;67(4):1874-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11282645</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Microbiology. 2003 Feb;149(Pt 2):279-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12624191</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Annu Rev Microbiol. 1977;31:107-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">334036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oral Microbiol Immunol. 2008 Apr;23(2):112-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18279178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Appl Environ Microbiol. 2007 Aug;73(16):5261-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17586664</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Med Microbiol. 1993 Dec;39(6):416-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8246259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Methods. 2010 May;7(5):335-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20383131</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Microbiol. 2008 Apr;46(4):1407-17</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18216213</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Periodontol. 1999 Jan;70(1):13-29</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10052767</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Microbiol. 2005 Nov;43(11):5721-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16272510</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Periodontol. 1998 Jul;3(1):51-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9722690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Appl Environ Microbiol. 2008 Jan;74(1):188-99</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18024682</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Genomics. 2010;11:523</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20920195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Infect Immun. 2009 Sep;77(9):3661-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19564382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Appl Environ Microbiol. 2008 Sep;74(17):5422-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18606799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS Comput Biol. 2006 Jul 21;2(7):e92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16848637</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oral Dis. 2008 Mar;14(2):95-101</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18302669</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2012 Sep 13;489(7415):220-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22972295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bioinformatics. 2010 Oct 1;26(19):2460-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20709691</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1961 Jun 23;133(3469):2008-10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17754651</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Periodontal Res. 1998 Apr;33(3):131-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9651874</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS Comput Biol. 2010;6(7):e1000844</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20628621</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2011 Sep 22;477(7365):457-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21881561</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 2005 Apr 22;308(5721):554-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15845853</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Microb Ecol. 2004 Feb;47(2):150-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14749906</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Oral Biol. 1990;35(5):381-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2196866</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crit Rev Oral Biol Med. 2002;13(5):426-41</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12393761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Dent Res. 2009 Jun;88(6):490-502</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19587153</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2012 Jun 14;486(7402):207-14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22699609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+      <PMID Version="1">28052151</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>05</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>12</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2380-6591</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>2</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2017</Year>
+              <Month>04</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA cardiology</Title>
+          <ISOAbbreviation>JAMA Cardiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effect of Iron Levels on Women After Premature or Early-Onset Menopause-Reply.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>458-459</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamacardio.2016.5084</ELocationID>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Muka</LastName>
+            <ForeName>Taulant</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, Erasmus University Medical Center, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chowdhury</LastName>
+            <ForeName>Rajiv</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cardiovascular Epidemiology Unit, Department of Public Health and Primary Care, University of Cambridge, Cambridge, England.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Franco</LastName>
+            <ForeName>Oscar H</ForeName>
+            <Initials>OH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, Erasmus University Medical Center, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>MR/L003120/1</GrantID>
+            <Agency>Medical Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>RG/08/014/24067</GrantID>
+            <Agency>British Heart Foundation</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016420">Comment</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JAMA Cardiol</MedlineTA>
+        <NlmUniqueID>101676033</NlmUniqueID>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>E1UOL152H7</RegistryNumber>
+          <NameOfSubstance UI="D007501">Iron</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentOn">
+          <RefSource>JAMA Cardiol. 2016 Oct 1;1(7):767-776</RefSource>
+          <PMID Version="1">27627190</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentOn">
+          <RefSource>JAMA Cardiol. 2017 Apr 1;2(4):458</RefSource>
+          <PMID Version="1">28052144</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentOn">
+          <RefSource>JAMA Cardiol. 2017 Apr 1;2(4):457-458</RefSource>
+          <PMID Version="1">28052145</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D007501">Iron</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D008593">Menopause</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y" UI="D008594">Menopause, Premature</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2017</Year>
+          <Month>1</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2017</Year>
+          <Month>1</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">28052151</ArticleId>
+        <ArticleId IdType="pii">2594834</ArticleId>
+        <ArticleId IdType="doi">10.1001/jamacardio.2016.5084</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+      <PMID Version="1">28223163</PMID>
+      <DateCompleted>
+        <Year>2017</Year>
+        <Month>08</Month>
+        <Day>04</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1097-6868</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>216</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2017</Year>
+              <Month>06</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>American journal of obstetrics and gynecology</Title>
+          <ISOAbbreviation>Am. J. Obstet. Gynecol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>17-alpha Hydroxyprogesterone caproate did not reduce the rate of recurrent preterm birth in a prospective cohort study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>600.e1-600.e9</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0002-9378(17)30294-6</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ajog.2017.02.025</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">17-alpha Hydroxyprogesterone caproate for prevention of recurrent preterm birth is recommended for use in the United States.</AbstractText>
+          <AbstractText Label="OBJECTIVE">We sought to assess the clinical effectiveness of 17-alpha hydroxyprogesterone caproate to prevent recurrent preterm birth ≤35 weeks compared to similar births in our obstetric population prior to the implementation of 17-alpha hydroxyprogesterone caproate.</AbstractText>
+          <AbstractText Label="STUDY DESIGN">This was a prospective cohort study of 17-alpha hydroxyprogesterone caproate in our obstetric population. The primary outcome was the recurrence of birth ≤35 weeks for the entire study cohort compared to a historical referent rate of 16.8% of recurrent preterm birth in our population. There were 3 secondary outcomes. First, did 17-alpha hydroxyprogesterone caproate modify a woman's history of preterm birth when taking into account her prior number and sequence of preterm and term births? Second, was recurrence of preterm birth related to 17-alpha hydroxyprogesterone caproate plasma concentration? Third, was duration of pregnancy modified by 17-alpha hydroxyprogesterone caproate treatment compared to a prior preterm birth?</AbstractText>
+          <AbstractText Label="RESULTS">From January 2012 through March 2016, 430 consecutive women with prior births ≤35 weeks were treated with 17-alpha hydroxyprogesterone caproate. Nearly two thirds of the women (N = 267) began injections ≤18 weeks and 394 (92%) received a scheduled weekly injection within 10 days of reaching 35 weeks or delivery. The overall rate of recurrent preterm birth was 25% (N = 106) for the entire cohort compared to the 16.8% expected rate (P = 1.0). The 3 secondary outcomes were also negative. First, 17-alpha hydroxyprogesterone caproate did not significantly reduce the rates of recurrence regardless of prior preterm birth number or sequence. Second, plasma concentrations of 17-alpha hydroxyprogesterone caproate were not different (P = .17 at 24 weeks; P = .38 at 32 weeks) between women delivered ≤35 weeks and those delivered later in pregnancy. Third, the mean (±SD) interval in weeks of recurrent preterm birth before 17-alpha hydroxyprogesterone caproate use was 0.4 ± 5.3 weeks and the interval of recurrent preterm birth after 17-alpha hydroxyprogesterone caproate treatment was 0.1 ± 4.7 weeks (P = .63). A side effect of weekly 17-alpha hydroxyprogesterone caproate injections was an increase in gestational diabetes. Specifically, the rate of gestational diabetes was 13.4% in 17-alpha hydroxyprogesterone caproate-treated women compared to 8% in case-matched controls (P = .001).</AbstractText>
+          <AbstractText Label="CONCLUSION">17-alpha Hydroxyprogesterone caproate was ineffective for prevention of recurrent preterm birth and was associated with an increased rate of gestational diabetes.</AbstractText>
+          <CopyrightInformation>Copyright © 2017 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Nelson</LastName>
+            <ForeName>David B</ForeName>
+            <Initials>DB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, University of Texas Southwestern Medical Center, Dallas, TX. Electronic address: DavidB.Nelson@utsouthwestern.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McIntire</LastName>
+            <ForeName>Donald D</ForeName>
+            <Initials>DD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, University of Texas Southwestern Medical Center, Dallas, TX.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McDonald</LastName>
+            <ForeName>Jeffrey</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Molecular Genetics, University of Texas Southwestern Medical Center, Dallas, TX.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gard</LastName>
+            <ForeName>John</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Women and Infant Services, Parkland Health and Hospital System, Dallas, TX.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Turrichi</LastName>
+            <ForeName>Paula</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Women and Infant Services, Parkland Health and Hospital System, Dallas, TX.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Leveno</LastName>
+            <ForeName>Kenneth J</ForeName>
+            <Initials>KJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, University of Texas Southwestern Medical Center, Dallas, TX.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>UL1 TR001105</GrantID>
+            <Acronym>TR</Acronym>
+            <Agency>NCATS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2017</Year>
+          <Month>02</Month>
+          <Day>20</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Am J Obstet Gynecol</MedlineTA>
+        <NlmUniqueID>0370476</NlmUniqueID>
+        <ISSNLinking>0002-9378</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D006908">Hydroxyprogesterones</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011372">Progestins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>276F2O42F5</RegistryNumber>
+          <NameOfSubstance UI="D000077713">17 alpha-Hydroxyprogesterone Caproate</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>AIM</CitationSubset>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Am J Obstet Gynecol. 2017 Jun;216(6):543-546</RefSource>
+          <PMID Version="1">28554663</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Am J Obstet Gynecol. 2017 Nov;217(5):621</RefSource>
+          <PMID Version="1">28729013</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Am J Obstet Gynecol. 2017 Nov;217(5):621-622</RefSource>
+          <PMID Version="1">28729015</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Am J Obstet Gynecol. 2018 Feb;218(2):261</RefSource>
+          <PMID Version="1">28958584</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Am J Obstet Gynecol. 2018 Feb;218(2):261-262</RefSource>
+          <PMID Version="1">28958585</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Am J Obstet Gynecol. 2018 Mar;218(3):360-362</RefSource>
+          <PMID Version="1">29175247</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Am J Obstet Gynecol. 2018 Mar;218(3):360</RefSource>
+          <PMID Version="1">29175253</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Am J Obstet Gynecol. 2018 Aug;219(2):217</RefSource>
+          <PMID Version="1">29698618</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Am J Obstet Gynecol. 2018 Aug;219(2):218-220</RefSource>
+          <PMID Version="1">29702066</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Am J Obstet Gynecol. 2019 Mar;220(3):290-291</RefSource>
+          <PMID Version="1">30550766</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Am J Obstet Gynecol. 2019 Mar;220(3):290</RefSource>
+          <PMID Version="1">30550768</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D000077713">17 alpha-Hydroxyprogesterone Caproate</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D016640">Diabetes, Gestational</DescriptorName>
+          <QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+          <QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D005865">Gestational Age</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D006908">Hydroxyprogesterones</DescriptorName>
+          <QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+          <QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+          <QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D047928">Premature Birth</DescriptorName>
+          <QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D011372">Progestins</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D012008">Recurrence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">efficacy</Keyword>
+        <Keyword MajorTopicYN="Y">external validity</Keyword>
+        <Keyword MajorTopicYN="Y">gestational diabetes</Keyword>
+        <Keyword MajorTopicYN="Y">neonatal morbidity</Keyword>
+        <Keyword MajorTopicYN="Y">prematurity</Keyword>
+        <Keyword MajorTopicYN="Y">preterm birth</Keyword>
+        <Keyword MajorTopicYN="Y">progesterone</Keyword>
+        <Keyword MajorTopicYN="Y">progestogen</Keyword>
+        <Keyword MajorTopicYN="Y">randomized trial</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2017</Year>
+          <Month>01</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2017</Year>
+          <Month>02</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2017</Year>
+          <Month>02</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2017</Year>
+          <Month>2</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>8</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2017</Year>
+          <Month>2</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">28223163</ArticleId>
+        <ArticleId IdType="pii">S0002-9378(17)30294-6</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.ajog.2017.02.025</ArticleId>
+        <ArticleId IdType="pmc">PMC5449222</ArticleId>
+        <ArticleId IdType="mid">NIHMS853800</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Reprod Sci. 2009 Mar;16(3):257-64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19087974</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Obstet Gynaecol. 1990 Feb;97(2):149-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2138496</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2003 Feb;188(2):419-24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12592250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Cancer. 2014 Feb 4;110(3):551-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24495873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Soc Gynecol Investig. 2004 May;11(4):193-202</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15120691</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2014 Apr;210(4):321.e1-321.e21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24594138</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2016 Dec 8;375(23 ):2293-2297</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27959688</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Circulation. 2007 Mar 6;115(9):1164-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17339574</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2015 Feb 14;385(9968):629-39</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25458726</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2013 Mar;208(3):223.e1-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23433326</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2013 Jun;208(6):421-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23643669</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Life Sci. 2012 Apr 9;90(13-14):484-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22314502</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2007 Jun;196(6):576.e1-6; discussion 576.e6-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17547902</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2010 May;202(5):453.e1-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20452486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2014 Jan;210(1):47.e1-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24200163</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2011 Aug;205(2):135.e1-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21600550</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2017 Mar;216(3):B11-B13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28126367</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Facts Views Vis Obgyn. 2012;4(4):237-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24753915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2012 May;206(5):376-86</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22542113</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2007 Aug 2;357(5):462-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17671254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 1983 May 15;146(2):187-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6682631</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2015 Dec;213(6):846.e1-846.e19</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26264823</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Circulation. 2008 Sep 16;118(12):1294-303</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18794402</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biol Reprod. 1997 Mar;56(3):575-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9046999</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2016 Mar;214(3):376.e1-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26692181</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc R Soc Med. 1965 May;58:295-300</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14283879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obstet Gynecol. 2011 Jun;117(6):1408-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21471853</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 1975 Oct 2;293(14):675-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1099445</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ultrasound Obstet Gynecol. 2016 Sep;48(3):308-17</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27444208</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obstet Gynecol. 2001 Sep;98(3):379-85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11530116</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ultrasound Obstet Gynecol. 2007 Oct;30(5):687-96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17899572</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diabetes Care. 2007 Sep;30(9):2277-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17563346</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 1985 Mar 15;151(6):805-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3976793</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2014 May;210(5):426.e1-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24793722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2006 Oct;195(4):1004-10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17000233</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obstet Gynecol. 2005 Feb;105(2):267-72</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15684150</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cochrane Database Syst Rev. 2006 Jul 19;(3):CD004454</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16856047</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2011 Mar 10;364(10 ):972-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21388317</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obstet Gynecol. 2012 Oct;120(4):964-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22996126</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ultrasound Obstet Gynecol. 2011 Jul;38(1):18-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21472815</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2003 Sep 11;349(11):1087-8; author reply 1087-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12968095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2012 Feb;206(2):124.e1-19</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22284156</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2016 Jan;214(1):45-56</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26558340</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Birth. 2004 Sep;31(3):230-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15330887</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 1965 Oct;54(4):1069-76</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">5219818</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Perinat Med. 2013 Jan;41(1):27-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23314512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2014 Feb;210(2):128.e1-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24113254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Reprod Immunol. 2012 May;67(5):369-75</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22122352</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stat Med. 2016 May 20;35(11):1749-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26646432</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biochem J. 1994 Jul 1;301 ( Pt 1):183-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8037668</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2003 Jun 12;348(24):2379-85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12802023</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+      <PMID Version="1">28273292</PMID>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>12</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2380-6591</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>2</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>2017</Year>
+              <Month>07</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA cardiology</Title>
+          <ISOAbbreviation>JAMA Cardiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Potential of Oncocardiology.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>817</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamacardio.2017.0116</ELocationID>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Leong</LastName>
+            <ForeName>Siew Lian</ForeName>
+            <Initials>SL</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Pharmacy, Monash University Malaysia, Bandar Sunway, Malaysia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chaiyakunapruk</LastName>
+            <ForeName>Nathorn</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Pharmacy, Monash University Malaysia, Bandar Sunway, Malaysia2Center of Pharmaceutical Outcomes Research, Department of Pharmacy Practice, Faculty of Pharmaceutical Sciences, Naresuan University, Phitsanulok, Thailand3University of Wisconsin-Madison School of Pharmacy, Madison.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Shaun Wen Huey</ForeName>
+            <Initials>SWH</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Pharmacy, Monash University Malaysia, Bandar Sunway, Malaysia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016420">Comment</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JAMA Cardiol</MedlineTA>
+        <NlmUniqueID>101676033</NlmUniqueID>
+      </MedlineJournalInfo>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentOn">
+          <RefSource>JAMA Cardiol. 2016 Dec 1;1(9):1066-1072</RefSource>
+          <PMID Version="1">27541948</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>JAMA Cardiol. 2017 Jul 1;2(7):818</RefSource>
+          <PMID Version="1">28273313</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2017</Year>
+          <Month>3</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>3</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2017</Year>
+          <Month>3</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">28273292</ArticleId>
+        <ArticleId IdType="pii">2608237</ArticleId>
+        <ArticleId IdType="doi">10.1001/jamacardio.2017.0116</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
